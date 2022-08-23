@@ -17,13 +17,8 @@ Daha önce yapılmış programlara göre daha kolay bir arayüz kullandık. Rehb
 
 - C# (.NET FRAMEWORK 4.7.2)
 - MSSQL
-- smtp.sendgrid.net (Email Send)
+- sendinblue.com (Email Send)
 - GIMP (2.10.30)
-
-# Takım Üyelerinin Sorumlulukları
-1- Veritabanı tablolarının oluşturulması. (Mert DOĞAN,Melih Küçük,Yüksel Alkış) </br>
-2- Otomasyonun Frontend'i (Mert DOĞAN,Melih Küçük,Yüksel Alkış) </br>
-3- Otomasyonun Backend'i (Mert DOĞAN,Melih Küçük,Yüksel Alkış)
 
 # Check List
 1- Veritabanını Tasarlama (28.04.2022) </br>
