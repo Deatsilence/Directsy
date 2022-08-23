@@ -1,6 +1,14 @@
 # SylarGavira E-Rehber Proje Raporu
 
 ![image](https://user-images.githubusercontent.com/75930407/170764521-e4340e15-30cd-4620-8e19-d270feae2d58.png)
+</br>
+</br>
+![image](https://user-images.githubusercontent.com/78795973/186238771-a914092d-1129-43ed-9bf7-92f09c055dbd.png)
+</br>
+</br>
+![image](https://user-images.githubusercontent.com/78795973/186238803-dfab3b51-75e6-4796-ba27-5b6963b5485a.png)
+
+
 
 ## The Goal Of The Project (Projenin Amacı)
 Telefona ihtiyaç kalmadan bilgisayar üzerinden telefon rehberi işlemlerini yapabilmek,sunucu üzerinden online bir şekilde kullanıcılar arası rehber gönderimi yapabilmek ve genel istatistiklere ulaşabilmek.
@@ -31,8 +39,3 @@ Daha önce yapılmış programlara göre daha kolay bir arayüz kullandık. Rehb
 - [x] Backend
 
 Sorumlulukları yukarıdaki gibi yazdık fakat her aşamada herkesin ortak çalışması olacak. Proje ile ilgili size attığımız mailden alacağımız dönüşe göre tarihler değişiklik gösterebilir.
-
-# Takım Üyeleri Hakkında
-1- Mert Doğan 202503033 (1. öğretim) </br>
-2- Melih Küçük 202523049 (2. öğretim) </br>
-3- Yüksel Alkış 202503066 (1. öğretim) </br>
