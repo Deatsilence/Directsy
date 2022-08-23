@@ -58,9 +58,10 @@ namespace MertDogan_202503033
             mailMessage.IsBodyHtml = true;
 
 
-            SmtpClient smtpClient = new SmtpClient("smtp.sendgrid.net", 587); // 25 olarakta deneyebiliriz
+            SmtpClient smtpClient = new SmtpClient("smtp-relay.sendinblue.com", 587); // 25 olarakta deneyebiliriz
                                                                               // eğer sirketiniz exchange sunucusu üzerinden gönderim yapacaksa
-            smtpClient.Credentials = new System.Net.NetworkCredential("apikey", "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");
+            //smtpClient.Credentials = new System.Net.NetworkCredential("apikey", "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");
+            smtpClient.Credentials = new System.Net.NetworkCredential("babasi_2000@hotmail.com", "xsmtpsib-add1443b21a50f90e4ce2ee545168050454b39393c63bb11668a856c76cc98ef-3AnzPcKbTVk6MfsL");
             smtpClient.EnableSsl = false;
             smtpClient.Send(mailMessage);
         }

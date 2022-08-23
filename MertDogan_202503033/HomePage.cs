@@ -90,7 +90,7 @@ namespace MertDogan_202503033
                 dgv.Columns[4].HeaderText = "Kayıt Tipi";
                 dgv.Columns[4].Width = 50;
                 dgv.Columns[6].HeaderText = "E-Mail";
-                dgv.Columns[6].Width = 250; 
+                dgv.Columns[6].Width = 250;
             }
             else
             {

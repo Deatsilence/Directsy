@@ -25,7 +25,8 @@ namespace MertDogan_202503033
         //
 
         //Remote Server Connections String
-        public static string conAdress = @"Data Source=SQL8003.site4now.net;Initial Catalog=db_a87ab7_202503033mert;User Id=db_a87ab7_202503033mert_admin;Password=Sylar3120";
+        //public static string conAdress = @"Data Source=SQL8003.site4now.net;Initial Catalog=db_a87ab7_202503033mert;User Id=db_a87ab7_202503033mert_admin;Password=Sylar3120";
+        public static string conAdress = @"workstation id=DirectsyDB.mssql.somee.com;packet size=4096;user id=Directsy;pwd=TheLastMohikan3120;data source=DirectsyDB.mssql.somee.com;persist security info=False;initial catalog=DirectsyDB"; // SOMEONE
 
         //Static Local Connection String
         //public static string conAdress = @"Data Source=CORVO;Initial Catalog=202503033;Integrated Security=True"; // hocam local hostunuzu yapın
