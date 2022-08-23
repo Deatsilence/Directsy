@@ -9,6 +9,8 @@
 ![image](https://user-images.githubusercontent.com/78795973/186238803-dfab3b51-75e6-4796-ba27-5b6963b5485a.png)
 
 
+## Download Link Is Here
+[Download Directsy](https://drive.google.com/file/d/10snAU-JHlQt-X7WRgEbYADYrGGIiuhTk/view?usp=sharing)
 
 ## The Goal Of The Project (Projenin Amacı)
 Telefona ihtiyaç kalmadan bilgisayar üzerinden telefon rehberi işlemlerini yapabilmek,sunucu üzerinden online bir şekilde kullanıcılar arası rehber gönderimi yapabilmek ve genel istatistiklere ulaşabilmek.
