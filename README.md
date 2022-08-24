@@ -10,7 +10,7 @@
 
 
 ## Download Link Is Here
-[Download Directsy](https://drive.google.com/file/d/10snAU-JHlQt-X7WRgEbYADYrGGIiuhTk/view?usp=sharing)
+[Download Directsy](https://drive.google.com/file/d/1Ggja1TzSiMbCcVk9THPBa-dbPtueQZ3n/view?usp=sharing)
 
 ## The Goal Of The Project (Projenin Amacı)
 Telefona ihtiyaç kalmadan bilgisayar üzerinden telefon rehberi işlemlerini yapabilmek,sunucu üzerinden online bir şekilde kullanıcılar arası rehber gönderimi yapabilmek ve genel istatistiklere ulaşabilmek.
