@@ -40,4 +40,3 @@ Daha önce yapılmış programlara göre daha kolay bir arayüz kullandık. Rehb
 - [x] Frontend
 - [x] Backend
 
-Sorumlulukları yukarıdaki gibi yazdık fakat her aşamada herkesin ortak çalışması olacak. Proje ile ilgili size attığımız mailden alacağımız dönüşe göre tarihler değişiklik gösterebilir.
